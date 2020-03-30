@@ -25,9 +25,71 @@
             "Id": "00000000-0000-0000-0000-000000000000",
             "CreateTime": "2020-03-30T14:30:34.1491852+08:00",
             "VersionSN": 0
+        },
+        {
+            "IsProcess": false,
+            "GroupNO": 0,
+            "Data_Id": "0195b93c-3b6a-8b0e-cf4b-2847ac19c40d",
+            "Child": null,
+            "Bounds": "495,122.76,188,88",
+            "ZIndex": 0,
+            "Title": "通用文本识别",
+            "Title2": "通用文本识别",
+            "Inputs": [
+                {
+                    "Key": "api_name",
+                    "Value": ""
+                },
+                {
+                    "Key": "api_user",
+                    "Value": ""
+                },
+                {
+                    "Key": "api_password",
+                    "Value": ""
+                },
+                {
+                    "Key": "image_file",
+                    "Value": ""
+                }
+            ],
+            "Outputs": [
+                {
+                    "Key": " 识别结果",
+                    "Value": ""
+                }
+            ],
+            "IsBreakPoint": false,
+            "Anchors": [
+                {
+                    "Position": "507,182.76",
+                    "AnchorType": 0,
+                    "Id": "83101fd5-3dfa-4050-b5e8-19608357305c",
+                    "CreateTime": "2020-03-30T14:47:16.7823943+08:00",
+                    "VersionSN": 0
+                },
+                {
+                    "Position": "673,182.76",
+                    "AnchorType": 1,
+                    "Id": "19451241-f6b7-4505-a224-e8c8e4048c70",
+                    "CreateTime": "2020-03-30T14:47:16.7823943+08:00",
+                    "VersionSN": 0
+                }
+            ],
+            "Id": "d4fea030-56bb-4d3e-a282-cbc8295f426c",
+            "CreateTime": "0001-01-01T00:00:00",
+            "VersionSN": 0
         }
     ],
-    "Connections": [],
+    "Connections": [
+        {
+            "From": "21d63b07-16ad-422d-ad3d-7de2d1ea4507",
+            "To": "83101fd5-3dfa-4050-b5e8-19608357305c",
+            "Id": "b5c77a19-3345-4430-b97d-5e5bb0e5cb38",
+            "CreateTime": "2020-03-30T14:47:16.7953555+08:00",
+            "VersionSN": 0
+        }
+    ],
     "Name": "main",
     "Des": "main",
     "Version": 0,
@@ -38,5 +100,5 @@
     "Outputs": [],
     "Id": "20517711-cc92-46e9-b91b-4d9cfd3a4876",
     "CreateTime": "2020-03-30T14:30:34.147191+08:00",
-    "VersionSN": 1
+    "VersionSN": 2
 }
