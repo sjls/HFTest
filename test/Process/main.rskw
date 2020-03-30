@@ -1,0 +1,42 @@
+﻿{
+    "IsEntry": true,
+    "Elements": [
+        {
+            "IsProcess": false,
+            "GroupNO": 0,
+            "Data_Id": null,
+            "Child": null,
+            "Bounds": "300,0,188,88",
+            "ZIndex": 0,
+            "Title": "开始",
+            "Title2": "开始",
+            "Inputs": [],
+            "Outputs": [],
+            "IsBreakPoint": false,
+            "Anchors": [
+                {
+                    "Position": "478,60",
+                    "AnchorType": 1,
+                    "Id": "21d63b07-16ad-422d-ad3d-7de2d1ea4507",
+                    "CreateTime": "2020-03-30T14:30:34.1491852+08:00",
+                    "VersionSN": 0
+                }
+            ],
+            "Id": "00000000-0000-0000-0000-000000000000",
+            "CreateTime": "2020-03-30T14:30:34.1491852+08:00",
+            "VersionSN": 0
+        }
+    ],
+    "Connections": [],
+    "Name": "main",
+    "Des": "main",
+    "Version": 0,
+    "OffsetX": 0.0,
+    "OffsetY": 0.0,
+    "Scale": 1.0,
+    "Inputs": {},
+    "Outputs": [],
+    "Id": "20517711-cc92-46e9-b91b-4d9cfd3a4876",
+    "CreateTime": "2020-03-30T14:30:34.147191+08:00",
+    "VersionSN": 1
+}

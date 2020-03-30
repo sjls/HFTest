@@ -1,0 +1,13 @@
+﻿{
+    "VersionIO": 4,
+    "Template": {
+        "Name": "test",
+        "Description": null,
+        "Id": "2f905035-db2a-4200-a53e-6ca253d12eaa",
+        "CreateTime": "2020-03-30T14:30:34.1113024+08:00",
+        "VersionSN": 0
+    },
+    "Id": "288c7be9-3a92-4ab0-a2df-6514467f89a4",
+    "CreateTime": "2020-03-30T14:30:34.1113024+08:00",
+    "VersionSN": 1
+}

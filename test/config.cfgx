@@ -1,0 +1,17 @@
+﻿{
+    "Parameters": [
+        {
+            "SortIndex": 0,
+            "Title": "配置",
+            "Items": [],
+            "Id": "0d46e919-d592-4c26-89bd-a65c3d83761c",
+            "CreateTime": "2020-03-30T14:30:34.1122846+08:00",
+            "VersionSN": 0
+        }
+    ],
+    "StartParameter": "0d46e919-d592-4c26-89bd-a65c3d83761c",
+    "Variables": [],
+    "Id": "e9666fd9-f289-49d5-a5d9-6df3910fb561",
+    "CreateTime": "2020-03-30T14:30:34.1113024+08:00",
+    "VersionSN": 1
+}
