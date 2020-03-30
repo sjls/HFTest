@@ -283,6 +283,60 @@
             "Id": "666471b4-d976-4114-a0aa-c3019a91a2ae",
             "CreateTime": "0001-01-01T00:00:00",
             "VersionSN": 0
+        },
+        {
+            "IsProcess": false,
+            "GroupNO": 0,
+            "Data_Id": "adb86bfe-9d71-16ec-b08e-9b03db74dd49",
+            "Child": null,
+            "Bounds": "702,760.568,188,88",
+            "ZIndex": 0,
+            "Title": "登录ftp",
+            "Title2": "登录ftp",
+            "Inputs": [
+                {
+                    "Key": "ftp_url",
+                    "Value": ""
+                },
+                {
+                    "Key": "usr",
+                    "Value": ""
+                },
+                {
+                    "Key": "pwd",
+                    "Value": ""
+                },
+                {
+                    "Key": "encoding",
+                    "Value": "'GBK'"
+                }
+            ],
+            "Outputs": [
+                {
+                    "Key": "ftp对象",
+                    "Value": ""
+                }
+            ],
+            "IsBreakPoint": false,
+            "Anchors": [
+                {
+                    "Position": "714,820.568",
+                    "AnchorType": 0,
+                    "Id": "fc3ead33-d5af-4551-a296-2be8a468b5af",
+                    "CreateTime": "2020-03-30T17:30:42.6372699+08:00",
+                    "VersionSN": 0
+                },
+                {
+                    "Position": "880,820.568",
+                    "AnchorType": 1,
+                    "Id": "7388ba3e-09d1-453d-b90b-82c3a65f3bce",
+                    "CreateTime": "2020-03-30T17:30:42.6372699+08:00",
+                    "VersionSN": 0
+                }
+            ],
+            "Id": "37f7e19d-1b57-42f5-b3a2-bfc68b77e42b",
+            "CreateTime": "0001-01-01T00:00:00",
+            "VersionSN": 0
         }
     ],
     "Connections": [
@@ -320,17 +374,24 @@
             "Id": "410ad7de-306e-4762-941f-711e520ce01a",
             "CreateTime": "2020-03-30T17:12:21.020406+08:00",
             "VersionSN": 0
+        },
+        {
+            "From": "f3830b8b-5f53-41d9-94d6-66ac412e38ac",
+            "To": "fc3ead33-d5af-4551-a296-2be8a468b5af",
+            "Id": "9be1dc0e-4640-44f8-bc34-a651e9065ff8",
+            "CreateTime": "2020-03-30T17:30:42.6512328+08:00",
+            "VersionSN": 0
         }
     ],
     "Name": "main",
     "Des": "main",
     "Version": 0,
     "OffsetX": 0.0,
-    "OffsetY": 372.22400000000005,
+    "OffsetY": 511.80800000000011,
     "Scale": 1.0,
     "Inputs": {},
     "Outputs": [],
     "Id": "20517711-cc92-46e9-b91b-4d9cfd3a4876",
     "CreateTime": "2020-03-30T14:30:34.147191+08:00",
-    "VersionSN": 6
+    "VersionSN": 7
 }
